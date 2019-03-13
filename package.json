@@ -1,0 +1,17 @@
+{
+  "name": "bugs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require setup.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "jsdom": "^14.0.0",
+    "mocha": "^6.0.2",
+    "sinon": "^7.2.7"
+  }
+}
